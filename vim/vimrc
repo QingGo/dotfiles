@@ -10,3 +10,7 @@ set hlsearch
 set foldmethod=indent
 " 语法高亮
 syntax on
+" tab 缩进四格
+set tabstop=4
+set expandtab
+set shiftwidth=4 " number of space append to lines when type >>

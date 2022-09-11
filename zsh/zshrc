@@ -1,0 +1,4 @@
+# for personal setting and oh-my-zsh setting, not sync now
+[ -f ~/.zsh_omz ] && source ~/.zsh_omz
+[ -f ~/.zsh_local ] && source ~/.zsh_local
+[ -f ~/.zsh_alias ] && source ~/.zsh_alias
