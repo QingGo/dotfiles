@@ -1,0 +1,5 @@
+tap "homebrew/bundle"
+tap "homebrew/command-not-found", "https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/homebrew-command-not-found.git"
+tap "homebrew/core", "https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/homebrew-core.git"
+brew "neovim"
+brew "tmux"

@@ -1,0 +1,12 @@
+" 常用设置
+" 设置行号
+set number
+colorscheme industry
+" 按F2 进入粘贴模式
+set pastetoggle=<F2>
+" 高亮搜索
+set hlsearch
+" 设置折叠方式
+set foldmethod=indent
+" 语法高亮
+syntax on
